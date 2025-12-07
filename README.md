@@ -1,4 +1,4 @@
-# Inazoom---Discord-bot-for-Inazuma-Eleven-Victory-Road-Player-stats
+# Inazoom
 Discord bot for Inazuma Eleven Victory Road Player stats and more!
 
 Credit to User Xion (Xion14blade)'s dataset that can be found here: https://docs.google.com/spreadsheets/d/1N4h7z27Rxq3bvYuR9VyeQv3Ze-zwo-1XZQTd9rZa-Zs/edit?usp=sharing
