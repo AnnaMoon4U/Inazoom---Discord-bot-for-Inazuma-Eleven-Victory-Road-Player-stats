@@ -3,6 +3,11 @@ Discord bot for Inazuma Eleven Victory Road Player stats and more!
 
 Credit to User Xion (Xion14blade)'s dataset that can be found here: https://docs.google.com/spreadsheets/d/1N4h7z27Rxq3bvYuR9VyeQv3Ze-zwo-1XZQTd9rZa-Zs/edit?usp=sharing
 
+# Files included:
+
+players.csv - local version of dataset
+Inazoom.py - local py script of bot
+
 # Current Features:
 
 **All 5000+ (Current) Players searchable** via command with Kanji, Hiragana, Nickname, Position, Element, Playstyle, Stats and BST Values, including images.
