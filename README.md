@@ -6,6 +6,7 @@ Credit to User Xion (Xion14blade)'s dataset that can be found here: https://docs
 # Files included:
 
 players.csv - local version of dataset
+
 Inazoom.py - local py script of bot
 
 # Current Features:
