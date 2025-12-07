@@ -15,7 +15,7 @@ Inazoom.py - local py script of bot
 
 **Smart search feature** - Can search with Kanji, Hiragana, Nickname, First name and even Last name! The search will also list players with a similar name to your input. Pages can be navigated by clicking on the arrow keys underneath the output image
 
-Video preview: 
+# Video preview: 
 
 ![preview](https://github.com/user-attachments/assets/85dd8b2c-3646-4692-8072-b1b6a27bec56)
 
