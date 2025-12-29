@@ -32,7 +32,11 @@ Filter command - Filters players by position, role, element, playstyle, gender, 
 Example input and result: 
 /player filter gender: 女 (Female) sort_by_stat: physical
 
-<img width="611" height="907" alt="image" src="https://github.com/user-attachments/assets/424fe593-6f07-482f-9913-c69bf3d4788e" />
+<img width="629" height="927" alt="image" src="https://github.com/user-attachments/assets/5dd9dc58-7891-4e1b-86cf-e0e708907825" />
+
+ #### Also supports Coordinator/manager passives:
+
+<img width="524" height="887" alt="image" src="https://github.com/user-attachments/assets/6d6cc3e5-b2a6-40b1-a978-a656991dc704" />
 
  ### **/player compare**
 
